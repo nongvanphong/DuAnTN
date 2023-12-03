@@ -129,3 +129,27 @@ class _LocationCheckPageState extends State<LocationCheckPage> {
     );
   }
 }
+//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây
+//xin chào mọi người lại là tôi đây
